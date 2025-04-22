@@ -1,0 +1,6 @@
+LambdaDemo/.vs/*
+LambdaDemo/bin/*
+LambdaDemo/obj/*
+localstack
+
+lambda.zip
